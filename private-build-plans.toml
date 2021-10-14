@@ -1,0 +1,55 @@
+[buildPlans.nimaiosevka-sans]
+family = "Nimaiosevka Sans"
+spacing = "normal"
+serifs = "sans"
+no-cv-ss = true
+
+[buildPlans.nimaiosevka-sans.variants.design]
+g = "double-storey-open"
+l = "serifed-flat-tailed"
+capital-w = "straight-vertical-sides"
+w = "straight-vertical-sides"
+asterisk = "turn-hex-low"
+at = "short"
+
+[buildPlans.nimaiosevka-slab]
+family = "Nimaiosevka Slab"
+spacing = "normal"
+serifs = "slab"
+no-cv-ss = true
+
+[buildPlans.nimaiosevka-slab.variants.design]
+g = "double-storey-open"
+l = "serifed-flat-tailed"
+capital-w = "straight-vertical-sides"
+w = "straight-vertical-sides"
+asterisk = "turn-hex-low"
+at = "short"
+
+[buildPlans.nimaiosevka-aile]
+family = "Nimaiosevka Aile"
+spacing = "quasi-proportional"
+serifs = "sans"
+no-cv-ss = true
+
+[buildPlans.nimaiosevka-aile.variants.design]
+g = "double-storey-open"
+l = "serifed-flat-tailed"
+capital-w = "straight-vertical-sides"
+w = "straight-vertical-sides"
+asterisk = "turn-hex-low"
+at = "short"
+
+[buildPlans.nimaiosevka-etoile]
+family = "Nimaiosevka Etoile"
+spacing = "quasi-proportional"
+serifs = "slab"
+no-cv-ss = true
+
+[buildPlans.nimaiosevka-etoile.variants.design]
+g = "double-storey-open"
+l = "serifed-flat-tailed"
+capital-w = "straight-vertical-sides"
+w = "straight-vertical-sides"
+asterisk = "turn-hex-low"
+at = "short"
